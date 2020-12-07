@@ -1,0 +1,10 @@
+.searchbar{
+    width: 20%;
+    height: auto;
+    border: 1px;
+    border-style: solid;
+    border-color: #dfe1e5;
+    border-radius: 24px; /* changed from 30 to 15*/
+    margin:8pc auto;
+    padding: 0px 10px;
+    display: flexbox;
